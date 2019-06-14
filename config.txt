@@ -1,4 +1,4 @@
-owner=568122402844966933
+owner=349229434072727553
 prefix=t
 game=Test
 stayinchannel=true
